@@ -1,10 +1,14 @@
 # Course Description for CB Agama
 
 | **Grade Distribution:** | 
-| ------------- |
+| :--- |
 | Assignments: **30%**  |
-| Midterm Exam (Written, Closed-Book): **30%**  |
+| Midterm Exam: **30%**  |
 | Final Project: **40%**  |
+
+## Assignments:
+
+## Midterm Exam:
 
 ## Final Project Guidelines:
 
