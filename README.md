@@ -1,20 +1,20 @@
-#Welcome to our notes file thingy! So far we got 3 collaborators
-#This is currently week 1.
+# Welcome to our notes file thingy! So far we got 3 collaborators
+# This is currently week 1.
 Assignments so far:
-  ##AGAMA
+  ## AGAMA
     -Assignment about religion
     -Final project about religion
-  ##COMPUTER NETWORKS
+  ## COMPUTER NETWORKS
     -Final project
-  ##INDONESIAN
+  ## INDONESIAN
     -To be added
-  ##OPERATING SYSTEMS
+  ## OPERATING SYSTEMS
     -To be added
-  ##WEB APPLICATION
+  ## WEB APPLICATION
     -To be added
-  ##ETHICAL HACKING
+  ## ETHICAL HACKING
     -To be added
-  ##COMPUTATIONAL PHYSICS
+  ## COMPUTATIONAL PHYSICS
     -To be added
-  ##GAME DESIGN
+  ## GAME DESIGN
     -To be added
