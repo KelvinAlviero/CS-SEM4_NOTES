@@ -63,7 +63,7 @@ The **TCP/IP model** is the foundation of modern internet communication, streaml
 ---
 
 ### Key Differences Between OSI and TCP/IP
-| Feature         | OSI Model (7 Layers)        | TCP/IP Model (4 Layers)       |
+| Feature         | OSI Model (7 Layers)        | TCP/IP Model (4 Layers)      |
 |---------------|----------------------|----------------------|
 | **Developed By** | ISO                   | DARPA (U.S. Department of Defense) |
 | **Purpose** | Conceptual framework for standardizing network communication | Practical model for real-world networking |
