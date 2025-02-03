@@ -3,7 +3,7 @@
 ## OSI Model
 The **Open Systems Interconnection (OSI) model** describes how computer systems communicate over a network. Developed by the **International Organization for Standardization (ISO)**, it standardizes network communication into **seven layers**:
 
-### OSI Model Layers
+### Layers of an OSI Model
 1. **Physical Layer**  
    - Transmits raw data between a device and a physical medium.
    - Manages electrical, optical, and mechanical aspects of data transmission.
