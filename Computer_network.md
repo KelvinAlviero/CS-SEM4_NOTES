@@ -33,7 +33,7 @@ The **Open Systems Interconnection (OSI) model** describes how computer systems 
    - Examples include HTTP, SMTP, and FTP.
 
 ![image](https://github.com/user-attachments/assets/b270a65a-8cbf-4350-a6c8-14059085f191)
-*Diagram of an OSI model*
+<sub>*Diagram of an OSI model*</sub>
 
 The **OSI model** ensures different systems can communicate using standardized protocols.
 
