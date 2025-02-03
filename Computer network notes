@@ -1,28 +1,80 @@
-Information for this class is strictly taken from CompTIA Network+
+# Networking Models: OSI and TCP/IP
 
-OSI stands for Open Systems Interconnection, a model that describes how computer systems communicate over a network. The International Organization for Standardization (ISO) developed the OSI model. 
+## OSI Model
+The **Open Systems Interconnection (OSI) model** describes how computer systems communicate over a network. Developed by the **International Organization for Standardization (ISO)**, it standardizes network communication into **seven layers**:
 
-The layers of the Open Systems Interconnection (OSI) model are the different stages of network communication between hardware and software. The layers are: 
-1) Physical layer: Transmits raw data between a device and a physical medium. This layer is responsible for the physical representation of the system, including the electrical and optical components. 
-2) Data link layer: One of the layers of the OSI model 
-3) Network layer: One of the layers of the OSI model 
-4) Transport layer: Manages the delivery of data packets between systems and hosts. This layer also checks for errors and regulates the size and sequencing of data. 
-5) Session layer: Manages the establishment, maintenance, and termination of connections between applications. This layer also handles authentication and reconnection after an interruption. 
-6) Presentation layer: Translates data between the application layer and the network format. This layer also handles encryption, compression, and data formatting. 
-7) Application layer: One of the layers of the OSI model 
+### OSI Model Layers
+1. **Physical Layer**  
+   - Transmits raw data between a device and a physical medium.
+   - Manages electrical, optical, and mechanical aspects of data transmission.
 
-The OSI model was designed to allow different systems to communicate with each other using standardized protocols. 
+2. **Data Link Layer**  
+   - Ensures reliable data transfer between devices on the same network.
+   - Handles MAC addressing and error detection.
 
+3. **Network Layer**  
+   - Manages logical addressing and routing of packets.
+   - Uses IP addressing for communication across different networks.
 
+4. **Transport Layer**  
+   - Manages data delivery between systems and hosts.
+   - Ensures reliable transmission, error checking, and flow control.
 
-"TCP/IP layers" refer to the different levels within the Transmission Control Protocol/Internet Protocol (TCP/IP) model, a framework that defines how data is transmitted across networks, with each layer performing a specific function like managing addressing, ensuring reliable delivery, or interacting with applications at the user level; the four primary layers in the TCP/IP model are: Application Layer, Transport Layer, Internet Layer, and Network Interface Layer
+5. **Session Layer**  
+   - Manages connection establishment, maintenance, and termination.
+   - Handles authentication and reconnections after interruptions.
 
-Explanation of each layer:
-1) Application Layer:
-This top layer directly interacts with user applications like web browsers, email clients, and file transfer programs, handling data formatting and user-specific protocols like HTTP, SMTP, and FTP. 
-2) Transport Layer:
-Responsible for establishing a reliable connection between two devices, managing data segmentation, flow control, and error detection to ensure data is delivered correctly. Protocols like TCP (Transmission Control Protocol) operate at this layer. 
-3) Internet Layer:
-This layer manages the logical addressing and routing of data packets across networks using IP (Internet Protocol) addresses, determining the best path to send data to the destination. 
-4) Network Interface Layer:
-This lowest layer handles the physical transmission of data on the network, interacting directly with hardware like network cards and managing data frames on the local network. 
+6. **Presentation Layer**  
+   - Translates data formats between the application and network.
+   - Handles encryption, compression, and data formatting.
+
+7. **Application Layer**  
+   - Provides network services directly to applications.
+   - Examples include HTTP, SMTP, and FTP.
+
+The **OSI model** ensures different systems can communicate using standardized protocols.
+
+---
+
+## TCP/IP Model
+The **Transmission Control Protocol/Internet Protocol (TCP/IP) model** defines how data is transmitted across networks. It consists of **four layers**, each with specific functions.
+
+### TCP/IP Model Layers
+1. **Application Layer**  
+   - Interfaces with user applications like web browsers and email clients.
+   - Protocols: HTTP, SMTP, FTP.
+
+2. **Transport Layer**  
+   - Manages reliable communication between devices.
+   - Handles data segmentation, flow control, and error detection.
+   - Protocols: TCP (Transmission Control Protocol), UDP (User Datagram Protocol).
+
+3. **Internet Layer**  
+   - Manages logical addressing and routing of data packets.
+   - Uses IP (Internet Protocol) for addressing and determining the best path.
+
+4. **Network Interface Layer**  
+   - Handles physical transmission of data on the network.
+   - Interacts directly with network hardware like network cards.
+   - Manages data frames on the local network.
+
+The **TCP/IP model** is the foundation of modern internet communication, streamlining network functions into fewer layers than the OSI model.
+
+---
+
+### Key Differences Between OSI and TCP/IP
+| Feature         | OSI Model (7 Layers)        | TCP/IP Model (4 Layers)       |
+|---------------|----------------------|----------------------|
+| **Developed By** | ISO                   | DARPA (U.S. Department of Defense) |
+| **Purpose** | Conceptual framework for standardizing network communication | Practical model for real-world networking |
+| **Number of Layers** | 7 | 4 |
+| **Application Support** | Application, Presentation, and Session layers | Combined into one Application layer |
+| **Network Routing** | Network Layer | Internet Layer |
+| **Reliability Control** | Transport Layer | Transport Layer |
+
+---
+
+### Summary
+- **The OSI model** is a theoretical framework for standardizing network communication.
+- **The TCP/IP model** is a practical model used for real-world internet communication.
+- TCP/IP consolidates some OSI layers, making it more streamlined and widely adopted.
