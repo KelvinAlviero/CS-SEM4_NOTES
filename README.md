@@ -1,19 +1,20 @@
 # Welcome to Semester-4 Collaborative Notes
-Assignments so far:
-  ## AGAMA
-    -Assignment about religion
-    -Final project about religion
-  ## COMPUTER NETWORKS
-    -Final project
-  ## INDONESIAN
+
+## Subjects:
+  ### CB: Agama
+    - Assignment regarding religion
+    - Final project regarding religion
+  ### Computer Networks
+    - Final project
+  ### Bahasa Indonesia
+    - To be added
+  ### Operating Systems
     -To be added
-  ## OPERATING SYSTEMS
+  ### Web Applications
     -To be added
-  ## WEB APPLICATION
+  ### Ethical Hacking
     -To be added
-  ## ETHICAL HACKING
+  ### Computational Physics
     -To be added
-  ## COMPUTATIONAL PHYSICS
-    -To be added
-  ## GAME DESIGN
+  ### Game Design
     -To be added
