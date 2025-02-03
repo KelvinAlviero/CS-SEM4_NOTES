@@ -1,11 +1,11 @@
-THERE IS A MID EXAM AND FINAL PROJECT DATE PROBABLY MID OF SEMEESTER
-30% ASSIGNMENTS
-30% MID EXAM (WRITTEN, CLOSED BOOK)
+# THERE IS A MID EXAM AND FINAL PROJECT DATE PROBABLY MID OF SEMEESTER
+**30% ASSIGNMENTS**
+**30% MID EXAM (WRITTEN, CLOSED BOOK)**
   -Materials are... what we learnt(Real obvious)
-40% FINAL Project
+**40% FINAL Project**
 
 
-FINAL PROJECT-----------------------------
+## FINAL PROJECT-----------------------------
 ANALYZING A SPECIFIC PUBLIC POLICY IN INDONESIA RELATED TO RELIGION(WEEK 12,13)
 -Identifty the religous or spiritual related ossie jappening in the communcity(Local/international)
 -Gather information(5W + 1H)
@@ -15,11 +15,11 @@ ANALYZING A SPECIFIC PUBLIC POLICY IN INDONESIA RELATED TO RELIGION(WEEK 12,13)
 -Collect data and choose one realistic solution
 -Create action pplans to address the selected issue BASED on the Indinesian Constitution
 
-Notes:
+## Notes:
 Max 5 students, multi-faith is a must(Multiple religions)
 Needs Oral presentations(Slides), written report and a presentation poster
 
-ASSIGNMENT-----------------------------------
+# ASSIGNMENT-----------------------------------
 RELIGIOUS DAY PRESENTATION ON WEEK 4,5,7,8, Conducted at the beginning or end of class
 -5 minutes
 -History behind religous day
