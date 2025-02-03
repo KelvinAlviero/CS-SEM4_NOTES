@@ -1,5 +1,4 @@
-# Welcome to our notes file thingy! So far we got 3 collaborators
-# This is currently week 1.
+# Welcome to Semester-4 Collaborative Notes
 Assignments so far:
   ## AGAMA
     -Assignment about religion
