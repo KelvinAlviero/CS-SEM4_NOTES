@@ -18,11 +18,11 @@ The OSI model was designed to allow different systems to communicate with each o
 "TCP/IP layers" refer to the different levels within the Transmission Control Protocol/Internet Protocol (TCP/IP) model, a framework that defines how data is transmitted across networks, with each layer performing a specific function like managing addressing, ensuring reliable delivery, or interacting with applications at the user level; the four primary layers in the TCP/IP model are: Application Layer, Transport Layer, Internet Layer, and Network Interface Layer
 
 Explanation of each layer:
-Application Layer:
+1) Application Layer:
 This top layer directly interacts with user applications like web browsers, email clients, and file transfer programs, handling data formatting and user-specific protocols like HTTP, SMTP, and FTP. 
-Transport Layer:
+2) Transport Layer:
 Responsible for establishing a reliable connection between two devices, managing data segmentation, flow control, and error detection to ensure data is delivered correctly. Protocols like TCP (Transmission Control Protocol) operate at this layer. 
-Internet Layer:
+3) Internet Layer:
 This layer manages the logical addressing and routing of data packets across networks using IP (Internet Protocol) addresses, determining the best path to send data to the destination. 
-Network Interface Layer:
+4) Network Interface Layer:
 This lowest layer handles the physical transmission of data on the network, interacting directly with hardware like network cards and managing data frames on the local network. 
