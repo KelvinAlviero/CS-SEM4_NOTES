@@ -1,10 +1,13 @@
-# THERE IS A MID EXAM AND FINAL PROJECT DATE PROBABLY MID OF SEMEESTER
-**30% ASSIGNMENTS**\
-**30% MID EXAM (WRITTEN, CLOSED BOOK)**
-**40% FINAL Project**
+# Course Description for CB Agama
 
+| **Grade Distribution:** | 
+| ------------- |
+| Assignments: **30%**  |
+| Midterm Exam (Written, Closed-Book): **30%**  |
+| Final Project: **40%**  |
 
-## FINAL PROJECT
+## Final Project Guidelines:
+
 ANALYZING A SPECIFIC PUBLIC POLICY IN INDONESIA RELATED TO RELIGION(WEEK 12,13)\
 -Identifty the religous or spiritual related ossie jappening in the communcity(Local/international)\
 -Gather information(5W + 1H)\
