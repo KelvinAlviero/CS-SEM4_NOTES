@@ -15,7 +15,7 @@
 - [Assignments](Bahasa%Indonesia%Assignments)
   
 ### Operating Systems
-- [Session Notes](Operating$System%Notes)
+- [Session Notes](Operating%System%Notes)
 - [Assignments](Operating%System%Assignments)
   
 ### Web Applications
