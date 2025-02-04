@@ -27,3 +27,11 @@ File System management:
 - Supporting primitives for manipulating files and directories
 - Mapping files onto mass storage
 - Backing up files on stable (nonvolatile) storage media
+
+Mass Storage Management:
+- Mounting and unmounting
+- Free Space management
+- Storage allocation
+- Disk Scheduling
+- Partitioning
+- Protecting
