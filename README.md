@@ -1,4 +1,4 @@
-# Welcome to Semester-4 Collaborative Notes
+# Welcome to The Semester-4 Collaborative Notes Repository
 
 ## Subjects and Description:
 
