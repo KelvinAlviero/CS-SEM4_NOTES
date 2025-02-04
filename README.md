@@ -8,7 +8,7 @@
 ### Computer Networks
 - Final project
 ### Bahasa Indonesia
-- To be added
+- Final project
 ### Operating Systems
 -To be added
 ### Web Applications
