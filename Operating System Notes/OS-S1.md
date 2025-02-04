@@ -6,8 +6,17 @@ The **OS** or the Operating System is a program that bridges the gap between the
 ## Structure of a Computer System
 The computer system can be divided into four different components:
 
-- Hardware (Components of the computer)
-- OS (Operating System)
-- Applications and Programs (Internet Browsers, Games, Word Processors, etc.)
-- Users (The person using the computer)
+1. Hardware
+  - Components of the computer (CPU, RAM, Storage, etc.)
+2. OS
+  - Operating system, manages the Hardware
+3. Applications and Programs
+  - Software installed by the users (Internet browsers, Games, Office Suites, etc.)
+4. Users (The person using the computer)
+  - The person/people using the computer
 
+## Computer-System Organization
+- Interuptions
+
+![image](https://github.com/user-attachments/assets/6cfa012b-b9a0-4fd1-9a06-8623111c7821)
+<sup> *Diagram explaining system interuptions* </sup>
