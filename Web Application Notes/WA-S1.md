@@ -22,3 +22,9 @@
 ## What is HTTP
 - HTTP stands for HyperText Transfer Protocol.
 - This is the protocal used to transfer hypertext documents and makes the World Wide Web possible.
+
+## Full-Stack Developer
+- Full-stack developer is a developer which does all aspects of application creation.
+
+![image](https://github.com/user-attachments/assets/2e7c4f17-ef22-4f40-8a64-7731f2f0dae4) </br>
+<sup> *Diagram of Full-Stack Development* </sup>
