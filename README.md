@@ -15,7 +15,9 @@
 - [Assignments](Bahasa%Indonesia%Assignments)
   
 ### Operating Systems
--To be added
+- [Session Notes](Operating$System%Notes)
+- [Assignments](Operating%System%Assignments)
+  
 ### Web Applications
 -To be added
 ### Ethical Hacking
