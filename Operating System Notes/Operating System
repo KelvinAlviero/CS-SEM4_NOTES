@@ -21,3 +21,9 @@ Memory Management:
 - Keep track of which parts of memory are currently being used and which process is using them
 - Allocate and Deallocate memory space as needed
 - Deciding which processes (or parts) and data to move into and out of memoryt
+
+File System management:
+- Create & Delete files, directories to organize files
+- Supporting primitives for manipulating files and directories
+- Mapping files onto mass storage
+- Backing up files on stable (nonvolatile) storage media
