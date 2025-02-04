@@ -3,8 +3,8 @@
 ## Subjects and Description:
 
 ### CB Agama
-- Assignment regarding religion
-- Final project regarding religion
+- Assignment
+- Final project
 ### Computer Networks
 - Final project
 ### Bahasa Indonesia
