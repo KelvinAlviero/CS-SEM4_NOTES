@@ -7,13 +7,13 @@ The **OS** or the Operating System is a program that bridges the gap between the
 The computer system can be divided into four different components:
 
 1. Hardware
-  - Components of the computer (CPU, RAM, Storage, etc.)
+    - Components of the computer (CPU, RAM, Storage, etc.)
 2. OS
-  - Operating system, manages the Hardware
+    - Operating system, manages the Hardware
 3. Applications and Programs
-  - Software installed by the users (Internet browsers, Games, Office Suites, etc.)
+    - Software installed by the users (Internet browsers, Games, Office Suites, etc.)
 4. Users (The person using the computer)
-  - The person/people using the computer
+    - The person/people using the computer
 
 ## Computer-System Organization
 - Interuptions
