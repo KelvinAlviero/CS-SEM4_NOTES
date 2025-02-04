@@ -35,3 +35,20 @@ Mass Storage Management:
 - Disk Scheduling
 - Partitioning
 - Protecting
+
+I/O System management:
+- a memory-management component that includes buffering, caching, n spooling
+- a general device-driver interface
+-
+
+Security & Protection:
+-Protection:
+Any mechanism for controlling the access of processes or users to the resources defined by a computer system
+
+-Security:
+Defend system from internal & external atk
+
+
+Distributed system:
+- like cloud computing or google cloud, its a distributed system
+
