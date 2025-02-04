@@ -7,4 +7,7 @@ Total: 100%
 
 About Class:
 - Classifying Operating System techniques according to its principles.
-- Operating system: software that manages a computer's hardware
+- Operating system: 
+1. software that manages a computer's hardware.
+2. The control program to run a software you wish to run.
+3. mostly involved with the hardware as a resource allocator.
