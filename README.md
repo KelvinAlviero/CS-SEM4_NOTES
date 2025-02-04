@@ -1,6 +1,6 @@
 # Welcome to The Semester-4 Collaborative Notes Repository
 
-## Subjects and Description:
+## Courses and Description:
 
 ### CB Agama
 - [Session Notes](CB%Agama%Notes)
