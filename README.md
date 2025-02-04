@@ -3,10 +3,13 @@
 ## Subjects and Description:
 
 ### CB Agama
-- Assignment
-- Final project
+- [Session Notes](CB%Agama)
+- [Assignments](CB%Agama%Assignemnts)
+
 ### Computer Networks
-- Final project
+- [Session Notes](Computer%Networks)
+- [Assignments](Computer%Networks%Assignments)
+
 ### Bahasa Indonesia
 - Final project
 ### Operating Systems
