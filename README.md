@@ -3,8 +3,8 @@
 ## Courses and Description:
 
 ### CB Agama
-- [Session Notes](CB%Agama%Notes)
-- [Assignments](CB%Agama%Assignemnts)
+- Assignment (Presentation on week 4)
+- Final project (Presentation on week 12)
 
 ### Computer Networks
 - [Session Notes](Computer%Networks%Notes)
