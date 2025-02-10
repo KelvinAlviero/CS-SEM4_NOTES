@@ -31,6 +31,12 @@ We can practice converting decimal to 8-bit binary using a decimal to binary con
 1- 126= RANGE
 127 = LOOPBACK
 
+NETWORK ADDRESS/BROADCAST 
+We use the AND rule for this
+
+![image](https://github.com/user-attachments/assets/f32dc303-59f4-49f9-a301-0600ff1af572)
+
+
 ## IP address more stuff
 IP address 
 Subnet mask
