@@ -1,2 +1,4 @@
 # WEEK 2-------
-- not started
+- Religion in general
+- purpose in life
+- thoughts on different believes
