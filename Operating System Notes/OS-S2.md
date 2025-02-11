@@ -41,14 +41,14 @@ Each process has PCB(Program control lock)
 
 ## Operation on processes
 Systems *MUST* provide
-- **Process creation**
+### **Process creation**
 -Parent process create children processes which in turn makes other processses, together they fort a tree of processes
 - Processes are managed and identified by a PID(Process identifier)
-- **There are a few sharing options, those being**
+### **There are a few sharing options, those being**
 - Parent and children share all resources
 - Children share subset of parent' resources
 - Parend and child share no resources
-- **Execution options**
+### **Execution options**
 - Parent and children execute concurrently
 - Parent waits until children terminate
 
