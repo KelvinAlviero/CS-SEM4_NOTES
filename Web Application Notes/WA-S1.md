@@ -28,3 +28,15 @@
 
 ![image](https://github.com/user-attachments/assets/2e7c4f17-ef22-4f40-8a64-7731f2f0dae4) </br>
 <sup> *Diagram of Full-Stack Development* </sup>
+
+## Other stuff
+- Customer service request in the form of ticket, allowing business to help and resolve the users' problems. Who use is IT, real estate, and other management.
+
+- Monolith: One big system, but hard to update because every part is connected.
+
+- SOA: System splits to separate services, but still rely on a central hub. Can still be hard to update if central hub is down.
+
+- Microservice: has many features with its own independent service. So when one service is down, the others will still work.
+
+- Best for ticketing system:
+     -Microservice for scalability and reliablility
