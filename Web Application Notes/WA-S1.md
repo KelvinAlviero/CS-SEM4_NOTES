@@ -40,3 +40,4 @@
 
 - Best for ticketing system:
      - Microservice for scalability and reliablility
+![image](https://github.com/user-attachments/assets/34ece1fe-5dd8-486a-9f15-44324c22186c)
