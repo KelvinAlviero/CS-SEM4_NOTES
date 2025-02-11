@@ -42,7 +42,7 @@ Each process has PCB(Program control lock)
 ## Operation on processes
 Systems *MUST* provide
 ### **Process creation**
--Parent process create children processes which in turn makes other processses, together they fort a tree of processes
+- Parent process create children processes which in turn makes other processses, together they fort a tree of processes
 - Processes are managed and identified by a PID(Process identifier)
 ### **There are a few sharing options, those being**
 - Parent and children share all resources
@@ -51,8 +51,24 @@ Systems *MUST* provide
 ### **Execution options**
 - Parent and children execute concurrently
 - Parent waits until children terminate
+### Process creation pt2
+### Address space
+- Child duplicate of parent
+- Child has a program loaded into it
+![image](https://github.com/user-attachments/assets/f8066e92-5d87-4bd3-83b1-cbea42e27982)
 
 
 - **Process termination**
+- Processes executes last statement and then asks the operating system to delete it using the *exit()* system call
+  - Returns status data from child to parent
+  - Process resources are deallocated by operating system
+- Parent may terminate the execution of children by using the *abort()* system call, reasons being
+  - Child has exceeded allocated resources
+  - Tasks assigned to child are no longer required
+  - The parent is exiting.
+- Some operating systems don't allow children to exist if the parent is terminated. reasons being
+  - Cascading termination, All children are terminated
+  - The termination is initiated by the operation system
+  
 
   
