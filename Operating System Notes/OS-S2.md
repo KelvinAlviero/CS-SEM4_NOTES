@@ -19,3 +19,16 @@ Programs are passive entites stores on the disk (Executabel
 - Ready
 - Terminated
 
+## Program control block
+Each process has PCB(Program control lock)
+- Process state
+- Program counter
+- CPU registers
+- CPU scheduling information
+- Memory management
+- Acccoutning Information
+- SOMETING
+
+## Process ScHEDULING
+- Process schedulers select among avalible processes for next execution on the CPU core
+- The goal is to maximaize CPU use
