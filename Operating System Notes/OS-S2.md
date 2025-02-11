@@ -7,7 +7,7 @@
 - Stack
 - Data section
 - Heap
-![image](https://github.com/user-attachments/assets/5a48e1f1-c5c8-43fd-b345-7956c7773f54)
+![image](https://github.com/user-attachments/assets/51c0db6a-30d5-4a3e-9a54-6b35ae36ba2d)
 
 ## Program
 Programs are passive entites stores on the disk (Executabel
