@@ -69,6 +69,64 @@ Systems *MUST* provide
 - Some operating systems don't allow children to exist if the parent is terminated. reasons being
   - Cascading termination, All children are terminated
   - The termination is initiated by the operation system
+(I  DO THIS LATER)
+
+## Interprocess communication
+- Processes within a system may be *Independant* or *Cooperating*
+- Cooperating processes CAN affect or be affected by other processes, including shared data
+(TO BE DONE SIR IS SO FAST OML)
+
+## Producer and consimer problem
+- Paradign for cooperating processes:
+  - producer processes makes information that is consumed by a consumer process
+-There are 2 variatons
+  - Unbounded buffer places no practical limit on the buffer size
+  - Bounded buffer assumes there is a fixed buffer size
+ 
+  ## IPC - Message passing
+  IPC uses
+    -Send (message)
+    - Receive(Message)
+
+  ### Message passing
+  - If procceses P and Q wish to communicate, they need to
+    - Establish a communication link between then
+    - Exchange messages via send/receive
+### Indirect communcation
+- Uses port/mailboxes
+  - Each mailbox has a unique ID
+  - Processes can communcation if they share a mailbox
+- Properties
+- Operations
+  - Create a new mailbox
+  - Send and receive messages through mailbox
+  - Delete a mailbox
+- Solutions with problems
+  - Allow a link's at most to have 2 processes
+  - Allow only 1 process at a time
+  - Allow the system to select the receiver.
+
+### Synchronixation
+- Blocking is considered SynchronusL
+  - Blocking send
+  - Blocking recieve
+- Non blocking is Asyncrhonous
+  - non blocking sned
+  - non blocking receive
+
+  ### Buffering
+  -Queue of messages attached to a the link is implemented in 3 ways
+    - Zero capacity
+        - No messages are queued on a link
+    - Bounded capacity
+        - Finite messages set by a limit 
+    - Unbounded capacity
+        - Infinite messages with no limit
+  
+  
+
+
+  
   
 
   
