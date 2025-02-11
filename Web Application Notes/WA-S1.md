@@ -39,4 +39,4 @@
 - Microservice: has many features with its own independent service. So when one service is down, the others will still work.
 
 - Best for ticketing system:
-     -Microservice for scalability and reliablility
+     - Microservice for scalability and reliablility
