@@ -29,6 +29,11 @@ Each process has PCB(Program control lock)
 - Acccoutning Information
 - SOMETING
 
-## Process ScHEDULING
+## Process Scheduling
 - Process schedulers select among avalible processes for next execution on the CPU core
 - The goal is to maximaize CPU use
+- Maintains Scheduling queues of processes like *Ready Queue* and *Wait Queues*
+- Processes migrate among various queues
+- ![image](https://github.com/user-attachments/assets/1629321a-2978-4342-93db-c006212dd75b)
+
+  
