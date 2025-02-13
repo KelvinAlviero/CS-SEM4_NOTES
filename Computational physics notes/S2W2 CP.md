@@ -17,4 +17,6 @@
     - .style.use (You can change the style)
     - .grid (makes a grid within the graph)
     - .legend (Names your lines of the graph on the top right)
+    - .imshow (Shows an image, so cool!!)
+    - .asarray (shows an image before imshow) 
 
