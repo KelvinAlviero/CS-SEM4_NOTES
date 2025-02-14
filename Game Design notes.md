@@ -65,3 +65,9 @@ Game production press
   - Loves the fear they evoke and respect they have
   - LOVES THE SUFFERING
   - Attracted to leaderboards, ranks and the acts of killing or winning
+ 
+  ### Game design documents
+  - Is ALWAYS evolving
+  - Best made in groups with 1 lead
+  - Should reflect on team's vision
+  - Contains all information needed for the development
