@@ -21,10 +21,10 @@ Cloud deployment
 3. community cloud - shared
 4. hybrid cloud - mixed
 
-On Premises
-IaaS (infrastructure as a service) - coextensive running
-PaaS (platform as a service) - easy to run without extensive syste m administration knowledge
-SaaS (software as a service) - Scalable with small businesses, can only execut, nothing else
+- On Premises
+- IaaS (infrastructure as a service) - coextensive running
+- PaaS (platform as a service) - easy to run without extensive syste m administration knowledge
+- SaaS (software as a service) - Scalable with small businesses, can only execut, nothing else
 
 DaaS (Desktop as a service)
 - Third party will supply cloud supplies, for web browsers n such
