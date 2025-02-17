@@ -1,3 +1,6 @@
+Not fully informative, but almost
+
+
 Software Define Network (SDN)
 - Application -> Control -> Infrastructure
 
