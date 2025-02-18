@@ -44,13 +44,42 @@
       -  Me nono understand, to be added
      - Many to many model
       - Also confused, to be added
+
+## Thread cancellation
+- Is a task of terminating a threading beofre it completes
+- If multiple threads search and one returns, all other threads are *Exterminated*
+
+### Scenarious
+- Asyncrhonous cancellation
+   - One thread immediatly terminates the thread
+- Deffered cancellation
+
+### Difficulties
+- Resources have been allocated to a killed thread
+- A thread is killed during updating data with other thread
+  
 ## Multicore/multiprocessor programming
 ### Challenges
 - Dividing activities
 - Balance
 - Data splitting and dependencies
 
-### Concurrency vs Paralleslism
+### Hyperthreading or Simultaneous Multithreading
+- IDKKK RAGHHHH
+
+### system calls
+- Fork()
+  - Seperates/duplicates the process
+- Exec()
+   - Replaces the entire process
+
+ ### Rules
+ - If exec() is called immediately after forking
+    - The duplication is called uncesarry, replacing all.
+  ### Problems
+  - If one thread calls fork(), does the new process duplicates all, or the new process single thread?
+
+## Concurrency vs Paralleslism
 - Parallelism implies a system can do multiple tasks simutanieously
 - There are 2 tyoes of parallelism
    - data parallelism
@@ -60,4 +89,8 @@
   
 - Concurrency supports more than one task
 
+### GOOFY command lines
+- In the command prompt with "wmic"
+- Get cores =  CPU Get NumberOfCores
+- Get logical cores = CPU Get NumberOfLogicalCores
 
