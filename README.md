@@ -3,26 +3,26 @@
 ## Courses and Description:
 
 ### CB Agama
-- Assignment (Presentation on week 4)
+- Assignment (Presentation on week 4) *In progress*
 - Final project (Presentation on week 12)
 
 ### Computer Networks
-- [Session Notes](Computer%Networks%Notes)
-- [Assignments](Computer%Networks%Assignments)
+- FINAL EXAM(WEEK 12)
+- FINAL PROJECT?(WEEK 12)
 
 ### Bahasa Indonesia
-- [Session Notes](Bahasa%Indonesia%Notes)
-- [Assignments](Bahasa%Indonesia%Assignments)
+- Mid Exam(WEEK 6)
+- Final Project(Week 12)
   
 ### Operating Systems
-- [Session Notes](Operating%System%Notes)
-- [Assignments](Operating%System%Assignments)
-  
+- Final Exam (Week 12)
+
 ### Web Applications
--To be added
+- Final Project (Week 12)
 ### Ethical Hacking
 -To be added
 ### Computational Physics
--To be added
+- Final project (2 People)
 ### Game Design
--To be added
+- Mid project
+- Final Project
