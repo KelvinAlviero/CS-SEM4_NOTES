@@ -20,4 +20,8 @@
 ![image](https://github.com/user-attachments/assets/4b8cda55-0f1b-44cb-8772-410396620d28)
 
 ### Double prescision floating point format: Binary64,double
+- for single precisionon, you find
+- The sign
+- binary format
+- normalize
 
