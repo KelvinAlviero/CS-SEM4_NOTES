@@ -11,9 +11,13 @@
 - Multiprocessing is equivalent to sequencetial stuff
 
 ## Binary representation
--  Binary representation of integers
+### Binary representation of integers
 ```57 = 57 < 64 = 2^6```
 ```6 bits are needed to take in 57```
 ```or```
 ```111001```
 ![image](https://github.com/user-attachments/assets/f32a9c98-865d-4df1-a319-37e8f35b53d0)
+![image](https://github.com/user-attachments/assets/4b8cda55-0f1b-44cb-8772-410396620d28)
+
+### Double prescision floating point format: Binary64,double
+
