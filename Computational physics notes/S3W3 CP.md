@@ -1,0 +1,7 @@
+- We learnt about RAM, cache, HDD vs SSD, describing about the hierarchy tree, we described about registers too
+- Most computers are in *64 bit* architecture
+- when a 64 bit storage is full, it contains *2^64*
+- ANY type of computer computation works with DOUBLES
+- The biggest number in phython you can store is *10^308*, more than this phython will consider *infinite*
+- The minimum number for phython is *10^-308*, anything below is considered *0*
+- 
