@@ -9,3 +9,11 @@
 - Some casses, computers may look at numbers wrong, known as a *Numerical error*, where if we see some thing as "3.3", the computer would see it as "3.2999999999...", NEVER compare floating numbers, it'll only cause errors.
 - Something about *Multithreading*, I didn't hear correctly
 - Multiprocessing is equivalent to sequencetial stuff
+
+## Binary representation
+-  Binary representation of integers
+```57 = 57 < 64 = 2^6```
+```6 bits are needed to take in 57```
+```or```
+```111001```
+![image](https://github.com/user-attachments/assets/f32a9c98-865d-4df1-a319-37e8f35b53d0)
