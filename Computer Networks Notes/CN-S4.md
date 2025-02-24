@@ -21,5 +21,26 @@ Ruting information protocol (RIP)
 
 Open shortest path first (OSPF)
 - Uses link state advertisement (LSAs)
+- No hop count
+- Use djikstra algorithm for route efficiency
 - Efficient and faster convergence than RIP
-- Require to use medium level of power and storage
+- Require to use medium level of power and storage on routers
+
+Enhance interior gateway routing protocol (EIGRP) (Interior of Network)
+- Hybrid: Distance vector and link state mashup
+- Use neighbor discovery message to gather route information to find out which computer is connected to the router
+- Using bandwidth, traffic congestion, transmission delay, reliability, and MTU size
+- More scabale than RIP and support autonomous system for larger networks
+
+Border Gateway protocol (BGP) (Exterior of Network)
+- Used IPv4 and IPv6
+- Scalable than RIP and OSPF
+- Manage hundreds of routes
+- Require ssubstantial process power, memory and storage
+- Use for banking or multinational countries
+
+Administrative Distance
+- Set of values to determine te trustworthiness of a route based on its source
+
+
+
