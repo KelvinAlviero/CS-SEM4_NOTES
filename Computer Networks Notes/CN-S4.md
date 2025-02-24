@@ -114,3 +114,5 @@ Early (1G & 2G):
 - Digital Network (2G): GSM & CDMA
 3G Network: Faster Data & Global Adoption:
 - Offers higher data speeds and supports for internet access
+4G: Supports both GSM & CDMA with improved speed, efficiency, and lower latency
+5G: Operates in NSA and SA, provides higher speed, lower latency, and improved network capacity
