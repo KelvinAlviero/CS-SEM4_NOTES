@@ -90,4 +90,27 @@ Voice VLANS
 - VoIP Traffic: Prioritizing packets over standard data
 
 Wireless Standard
+- Frequencies & Range
+- Channel Numbers (13 available)
+- Some channels can cause interference
 
+Encryption Standard
+- WEP: Use RC4 Security but had weak keys, easily hackable
+- WPA: Use Temporal Key Integrity Protocol (TKIP) to enhance security
+- WPA2: Uses Advance Key, and also is two types: Personal & Enterprise
+
+Antennas
+- Omni Antenna:  Indoor wi-fi network
+- Directional Antenna: point-to-point connection
+- Types: Panel/Patch & Yagi 
+
+Muliple Input Multiple Output (MIMO)
+- Use multiple antenna sto transmit and receive data
+- Better Speed and Reliablility
+
+Cellular Technology:
+Early (1G & 2G):
+- Analogy (1G): Supports only voice communication
+- Digital Network (2G): GSM & CDMA
+3G Network: Faster Data & Global Adoption:
+- Offers higher data speeds and supports for internet access
