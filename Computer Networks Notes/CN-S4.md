@@ -42,5 +42,17 @@ Border Gateway protocol (BGP) (Exterior of Network)
 Administrative Distance
 - Set of values to determine te trustworthiness of a route based on its source
 
+Bandwidth Management
+- Network layer is responisble for end-to-end communication
+- Make sure there is no bottleneck and computers can manage
+Different types:
+- File transfer: tolerate relays and transmission
+- Web Traffic: Tolerate delays and lost bits
+- Streaming audio/video: can buffer data and handle packet loss
+Real time apps:
+- Sensitive to delays and lost data
+- Dropped calls or data corruption
 
+Purpose:
+- prioritize traffic to ensure cirtical application receive the necessary bandwidth
 
