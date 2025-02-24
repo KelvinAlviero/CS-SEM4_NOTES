@@ -60,3 +60,25 @@ Traffic Shaping
 - Delays network traffic to control transmission rates.
 - Make sure client receive agreed bandwidth
 - Use a traffic shaping tools (MRTG, Cactus?, etc.)
+
+Quality of Srvice (QOS)
+- Manage network congestion by proritizing traffic instead of just increasing bandwidth
+- It categorize network trafic based on importance
+- High (Transmission) & Low (Buffer) profile
+
+Switching
+- Role: outermost envelope in a LAN packet
+
+Carrier sense multiple access with collision detection (CSMA/CD)
+- Hosts can access shared network medum with a reduce change of collision occuring and detect collision whe they do occur
+- Can only listen if network is in use
+- When network clear, host begins transmitting
+
+MAC Address Table
+- Read the ethernet header of incoming packets
+
+Address Resolution Protocol (ARP) - IPv4
+- Data link layer protocol that maps IPv4 to MAC Address
+
+Neighbor Discovery rotocl (NDP) - IPv6
+- Replaces ARP by using ICMPv6 message for address resolution.
