@@ -44,7 +44,7 @@ Administrative Distance
 
 Bandwidth Management
 - Network layer is responisble for end-to-end communication
-- Make sure there is no bottleneck and computers can manage
+- Make sure there is no bottleneck and computers can manage so that it doesnt overwhelm or overloead
 Different types:
 - File transfer: tolerate relays and transmission
 - Web Traffic: Tolerate delays and lost bits
@@ -56,3 +56,7 @@ Real time apps:
 Purpose:
 - prioritize traffic to ensure cirtical application receive the necessary bandwidth
 
+Traffic Shaping
+- Delays network traffic to control transmission rates.
+- Make sure client receive agreed bandwidth
+- Use a traffic shaping tools (MRTG, Cactus?, etc.)
