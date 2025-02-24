@@ -82,3 +82,12 @@ Address Resolution Protocol (ARP) - IPv4
 
 Neighbor Discovery rotocl (NDP) - IPv6
 - Replaces ARP by using ICMPv6 message for address resolution.
+
+VLAN & Trunking
+- Multiple broadcast domains
+
+Voice VLANS
+- VoIP Traffic: Prioritizing packets over standard data
+
+Wireless Standard
+
