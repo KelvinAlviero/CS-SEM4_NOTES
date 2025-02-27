@@ -21,8 +21,19 @@
 - ![image](https://github.com/user-attachments/assets/7d3a36a3-f747-41a2-a5cf-24d53791505f)
 - ![image](https://github.com/user-attachments/assets/e6bda1c7-992f-43b0-89c5-4cfbb9c406fd)
 
+### Simpson Rule
+![image](https://github.com/user-attachments/assets/05e89bfe-fa37-40a6-991a-f0e493b67fa8)
+- Best suited when high accuracy isn't needed
+- Significantly shorter and more simpler than Trapezoid rule
+
+
+
 ### Error types
 - Absolute Error
+``` True value -  Approximate Value ```
 - Relative Error
+``` ((True Value -  Approximate value)/True Value)*100% ```
 - Approximation Error
+``` ((True value -  Approximate Value)/Approximate Value)*100%```
 - Rounding Error
+``` Computer limit, not out fault usually```
