@@ -12,10 +12,17 @@
 - (Kelvin)
 
 ### Trapezoidal rule
--  A better approach, involing less work where the area is divided into trapezoids instead of rectangles
 - ![image](https://github.com/user-attachments/assets/ac1dd925-73d9-4bf8-ad14-32574ea2589c)
+-  A better approach, involing less work where the area is divided into trapezoids instead of rectangles
 - Trapezoids under the area are usually *better* aproximation rather than the straight up area of the curve
 - More slices mean more accuracy
 - *BUT* more slices mean more work, including when ran by a *code/program*, use when necesarry.
+- 
 - ![image](https://github.com/user-attachments/assets/7d3a36a3-f747-41a2-a5cf-24d53791505f)
+- ![image](https://github.com/user-attachments/assets/e6bda1c7-992f-43b0-89c5-4cfbb9c406fd)
 
+### Error types
+- Absolute Error
+- Relative Error
+- Approximation Error
+- Rounding Error
