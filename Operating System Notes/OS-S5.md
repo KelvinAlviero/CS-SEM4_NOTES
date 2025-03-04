@@ -42,4 +42,14 @@
 - SJF is priority scheduling where (Oml sir please slow down)
 - ![image](https://github.com/user-attachments/assets/940a7324-95f1-4bba-9884-472bd6ee8339)
 - ![image](https://github.com/user-attachments/assets/520b1e0e-cca4-4e17-bd3f-2866084e5301)
+- Exercise 3
+- ![image](https://github.com/user-attachments/assets/5c9cb4df-7da6-44f8-b81a-b7739651fbb8)
+
+# Multilevel queues
+- Idk
+
+# Multilevel feedback queue
+These are defined by the following parameters
+- Number of quese
+- TO BE DONE I'M SO PAIN
 
