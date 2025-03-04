@@ -31,3 +31,7 @@
 - Average waiting time  =  (P1 + P2 + P3)/Amount of processes
 - *Convoy effect* =  short processes wait for longer processes to finish
 ![image](https://github.com/user-attachments/assets/40e028a4-fabc-491b-aef7-01fbfcae3620)
+![image](https://github.com/user-attachments/assets/00fc3076-50b3-4d71-bba4-158c25acc09d)
+- Rounding Robin (TO BE DONE)
+- Time quantum/ context switch (Holy shit I don't standunder this, -Kelvin)
+
