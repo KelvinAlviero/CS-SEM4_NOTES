@@ -34,4 +34,12 @@
 ![image](https://github.com/user-attachments/assets/00fc3076-50b3-4d71-bba4-158c25acc09d)
 - Rounding Robin (TO BE DONE)
 - Time quantum/ context switch (Holy shit I don't standunder this, -Kelvin)
+- ![image](https://github.com/user-attachments/assets/e7f49477-af29-413e-b44d-2b9aef150d9e)
+
+### Priority scheduling
+- Uses *Priority numbers* to associate each process
+- CPU focusses on hight priority
+- SJF is priority scheduling where (Oml sir please slow down)
+- ![image](https://github.com/user-attachments/assets/940a7324-95f1-4bba-9884-472bd6ee8339)
+- ![image](https://github.com/user-attachments/assets/520b1e0e-cca4-4e17-bd3f-2866084e5301)
 
