@@ -28,4 +28,5 @@
 
 ### Vibe coding
 - Popularized by Andrej Karpathy
-- Vibe coding is just, cod
+- Vibe coding is just, coding with AI, but you never touch the code
+- In my opinion this is effective for creation, not learning. 
