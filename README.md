@@ -9,6 +9,7 @@
 ### Computer Networks
 - FINAL EXAM(WEEK 12)
 - FINAL PROJECT?(WEEK 12)
+![image](https://github.com/user-attachments/assets/06fb1f27-4239-4b8b-add8-c4e1301639dd)
 
 ### Bahasa Indonesia
 - Mid Exam(WEEK 6)
